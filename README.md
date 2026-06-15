@@ -26,6 +26,6 @@
   <img align="center" alt="py" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-💻 Desenvolvedor, apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação.
+💻 Desenvolvedor.
 
 
