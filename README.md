@@ -5,7 +5,7 @@
 # 💫 Sobre Mim
 🎓 Estudante de Engenharia de Computação.<br>
 🧠 Interesse em desenvolvimento de software, algoritmos e sistemas.<br>
-🔍 Atualmente estudando Sistemas de Controle.<br>
+🔍 Atualmente estudando.<br>
 📚 Sempre buscando aprender algo novo e evoluir como desenvolvedor.<br>
 🤝 Aberto a colaborações e novos desafios.<br>
 
