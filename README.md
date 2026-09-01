@@ -2,14 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1500&color=FFFFFF&random=false&width=435&lines=Bem-vindo!;Eu+sou+o+Sadi+Garcia%F0%9F%96%90%EF%B8%8F;Engenharia+de+Computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
-# 💫 Sobre Mim
-🎓 Estudante de Engenharia de Computação.<br>
-🧠 Interesse em desenvolvimento de software, algoritmos e sistemas.<br>
-🔍 Atualmente estudando.<br>
-📚 Sempre buscando aprender algo novo e evoluir como desenvolvedor.<br>
-🤝 Aberto a colaborações e novos desafios.<br>
+#  Sobre Mim
+ Estudante de Engenharia de Computação.<br>
+ Interesse em desenvolvimento de software, algoritmos e sistemas.<br>
+ Atualmente estudando.<br>
+ Sempre buscando aprender algo novo e evoluir como desenvolvedor.<br>
+ Aberto a colaborações e novos desafios.<br>
 
-# 📁 O que você vai encontrar por aqui
+# O que você vai encontrar por aqui
 - Projetos acadêmicos e pessoais
 - Algoritmos e estruturas de dados
 - Experimentos e estudos em programação
